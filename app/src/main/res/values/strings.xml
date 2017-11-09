@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LeFeedEClassificaComTextSentimentAnalysisAzure</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo_adicionar_novo_feed">Adicionar novo feed?</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="feed_adicionado">Feed adicionado</string>
+    <string name="feed_nao_adicionado">Feed não foi adicionado</string>
+    <string name="url_conversao_feed_json">https://api.rss2json.com/v1/api.json?rss_url=</string>
+    <string name="chave_acesso_azure">chave aqui</string>
+    <string name="url_azure">https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment</string>
+</resources>
